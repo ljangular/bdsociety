@@ -1,0 +1,412 @@
+{
+  "donations": [
+    {
+      "id": 1,
+      "eventName": "1. January blood donation event",
+      "eventDate": "2022-01-12",
+      "place": "Beograd",
+      "address": "Saint Sava Street 4"
+    },
+    {
+      "id": 2,
+      "eventName": "2. February blood donation event",
+      "eventDate": "2022-02-12",
+      "place": "Beograd",
+      "address": "Saint Sava Street 4"
+    },
+    {
+      "id": 3,
+      "eventName": "3. March blood donation event",
+      "eventDate": "2022-03-12",
+      "place": "Beograd",
+      "address": "Saint Sava Street 4"
+    },
+    {
+      "id": 4,
+      "eventName": "4. April blood donation event",
+      "eventDate": "2022-04-12",
+      "place": "Beograd",
+      "address": "Saint Sava Street 4"
+    },
+    {
+      "id": 5,
+      "eventName": "5. May blood donation event",
+      "eventDate": "2022-08-15",
+      "place": "Belgrade",
+      "address": "Saint Sava Street 4"
+    },
+    {
+      "id": 6,
+      "eventName": "6. June blood donation event",
+      "eventDate": "2022-08-16",
+      "place": "Belgrade",
+      "address": "Saint Sava Street 4"
+    },
+    {
+      "id": 7,
+      "eventName": "7. July blood donation event",
+      "eventDate": "2022-10-26",
+      "place": "Belgrade",
+      "address": "Saint Sava Street 4"
+    },
+    {
+      "id": 8,
+      "eventName": "8. August blood donation event",
+      "eventDate": "2022-10-27",
+      "place": "Belgrade",
+      "address": "Saint Sava Street 4"
+    }
+  ],
+  "donationListings": [
+    {
+      "id": 1,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 3,
+      "donationId": 7
+    },
+    {
+      "id": 2,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 10,
+      "donationId": 7
+    },
+    {
+      "id": 3,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 10,
+      "donationId": 8
+    },
+    {
+      "id": 4,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 1,
+      "donationId": 1
+    },
+    {
+      "id": 5,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 2,
+      "donationId": 1
+    },
+    {
+      "id": 6,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 9,
+      "donationId": 1
+    },
+    {
+      "id": 7,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 10,
+      "donationId": 1
+    },
+    {
+      "id": 8,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 7,
+      "donationId": 2
+    },
+    {
+      "id": 9,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 8,
+      "donationId": 2
+    },
+    {
+      "id": 10,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 3,
+      "donationId": 2
+    },
+    {
+      "id": 11,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 2,
+      "donationId": 3
+    },
+    {
+      "id": 12,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 5,
+      "donationId": 3
+    },
+    {
+      "id": 13,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 1,
+      "donationId": 4
+    },
+    {
+      "id": 14,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 3,
+      "donationId": 4
+    },
+    {
+      "id": 15,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 6,
+      "donationId": 4
+    },
+    {
+      "id": 16,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 9,
+      "donationId": 4
+    },
+    {
+      "id": 17,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 7,
+      "donationId": 4
+    },
+    {
+      "id": 18,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 4,
+      "donationId": 6
+    },
+    {
+      "id": 19,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 2,
+      "donationId": 6
+    },
+    {
+      "id": 20,
+      "donationDate": "2022-08-18T00:00:00.000Z",
+      "numberOfUnits": 1,
+      "quantity": 30,
+      "donorId": 10,
+      "donationId": 5
+    }
+  ],
+  "donors": [
+    {
+      "id": 1,
+      "employeeNumber": "465821",
+      "name": "Michael",
+      "gender": "male",
+      "identificationNumber": "0709990710877",
+      "birthDate": "1988-07-11",
+      "bloodType": "A",
+      "rhFactor": "+",
+      "lastDonationDate": "2022-04-12",
+      "totalDonationNumber": 7,
+      "member": false,
+      "activity": true,
+      "note": "Note 1",
+      "status": "1 Employed in Co",
+      "phone": "5641238971"
+    },
+    {
+      "id": 2,
+      "employeeNumber": "445235",
+      "name": "Ljubivoje",
+      "gender": "male",
+      "identificationNumber": "0709990710877",
+      "birthDate": "1978-04-07",
+      "bloodType": "0",
+      "rhFactor": "+",
+      "lastDonationDate": "2022-08-16",
+      "totalDonationNumber": 11,
+      "member": true,
+      "activity": true,
+      "note": "Note 2",
+      "status": "3 Employed",
+      "phone": "5641238971"
+    },
+    {
+      "id": 3,
+      "employeeNumber": "436300",
+      "name": "Barbara",
+      "gender": "female",
+      "identificationNumber": "0709990710877",
+      "birthDate": "1982-01-19",
+      "bloodType": "B",
+      "rhFactor": "-",
+      "lastDonationDate": "2022-04-12",
+      "totalDonationNumber": 14,
+      "member": false,
+      "activity": true,
+      "note": "Note 3",
+      "status": "4 Unemployed",
+      "phone": "5641238971"
+    },
+    {
+      "id": 4,
+      "employeeNumber": "436399",
+      "name": "Tom",
+      "gender": "male",
+      "identificationNumber": "0709990710877",
+      "birthDate": "1969-10-05",
+      "bloodType": "AB",
+      "rhFactor": "+",
+      "lastDonationDate": "2022-08-16",
+      "totalDonationNumber": 7,
+      "member": true,
+      "activity": false,
+      "note": "Note 4",
+      "status": "1 Employed in Co",
+      "phone": "5641238971"
+    },
+    {
+      "id": 5,
+      "employeeNumber": "488222",
+      "name": "John",
+      "gender": "male",
+      "identificationNumber": "0709990710877",
+      "birthDate": "1973-07-19",
+      "bloodType": "AB",
+      "rhFactor": "-",
+      "lastDonationDate": "2022-03-12",
+      "totalDonationNumber": 44,
+      "member": false,
+      "activity": true,
+      "note": "Note 5",
+      "status": "3 Employed",
+      "phone": "5641238971"
+    },
+    {
+      "id": 6,
+      "employeeNumber": "488222",
+      "name": "Richard",
+      "gender": "male",
+      "identificationNumber": "0709990710877",
+      "birthDate": "19801-01-01",
+      "bloodType": "AB",
+      "rhFactor": "-",
+      "lastDonationDate": "2022-04-12",
+      "totalDonationNumber": 8,
+      "member": true,
+      "activity": true,
+      "note": "Note 6",
+      "status": "1 Employed in Co",
+      "phone": "5641238971"
+    },
+    {
+      "id": 7,
+      "employeeNumber": "433188",
+      "name": "Milos",
+      "gender": "male",
+      "identificationNumber": "0709990710877",
+      "birthDate": "1970-10-10",
+      "bloodType": "0",
+      "rhFactor": "+",
+      "lastDonationDate": "2022-04-12",
+      "totalDonationNumber": 6,
+      "member": true,
+      "activity": "",
+      "note": "note 7",
+      "status": "2 Pensioner",
+      "phone": "5641238971"
+    },
+    {
+      "id": 8,
+      "employeeNumber": "433188",
+      "name": "Filip",
+      "gender": "male",
+      "identificationNumber": "0704978710555",
+      "birthDate": "1987-06-18",
+      "bloodType": "A",
+      "rhFactor": "+",
+      "lastDonationDate": "2022-02-12",
+      "totalDonationNumber": 7,
+      "member": true,
+      "activity": "",
+      "note": "Note 8",
+      "status": "1 Employed in Co",
+      "phone": "5641238971"
+    },
+    {
+      "id": 9,
+      "employeeNumber": "478366",
+      "name": "Robert",
+      "gender": "male",
+      "identificationNumber": "0709990710877",
+      "birthDate": "1978-10-29",
+      "bloodType": "A",
+      "rhFactor": "+",
+      "lastDonationDate": "2022-04-12",
+      "totalDonationNumber": 5,
+      "member": "true",
+      "activity": "true",
+      "note": "Note 9",
+      "status": "3 Employed",
+      "phone": "5641238333"
+    },
+    {
+      "id": 10,
+      "employeeNumber": "488333",
+      "name": "Tamara",
+      "gender": "female",
+      "identificationNumber": "0709990710877",
+      "birthDate": "1995-09-07",
+      "bloodType": "B",
+      "rhFactor": "-",
+      "lastDonationDate": "2022-08-15",
+      "totalDonationNumber": 4,
+      "member": false,
+      "activity": "true",
+      "note": "Note 10",
+      "status": "2 Pensioner",
+      "phone": "5641238333"
+    }
+  ],
+  "statuses": [
+    {
+      "id": 1,
+      "statusName": "1 Employed in Co"
+    },
+    {
+      "id": 2,
+      "statusName": "2 Pensioner"
+    },
+    {
+      "id": 3,
+      "statusName": "3 Employed"
+    },
+    {
+      "id": 4,
+      "statusName": "4 Unemployed"
+    }
+  ]
+}
